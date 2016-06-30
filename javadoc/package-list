@@ -1,0 +1,7 @@
+com.fincons.rabbitmq.client
+com.fincons.rabbitmq.client.factory
+com.fincons.rabbitmq.client.test
+com.fincons.rabbitmq.event
+com.fincons.rabbitmq.publisher
+com.fincons.rabbitmq.subscriber
+com.fincons.util
